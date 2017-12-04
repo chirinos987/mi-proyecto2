@@ -1,11 +1,8 @@
 { 
-  "name": "ethopia-waza",
-  "description": "a delightfully fruity coffee varietal",
-  "version": "1.2.3",
-  "devDependencies": {
-    "coffee-script": "~1.6.3"
-  },
+  "name": "mi-proyecto",
+  "description": "tarea pal profito",
+  "version": "1.0.0",
   "scripts": {
-    "prepare": "coffee -o lib/ -c src/waza.coffee"
+    "start": "index.htm"
   }
 }
